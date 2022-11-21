@@ -1,0 +1,8 @@
+D:\Studying\C# COMPLETO Programação Orientada a Objetos + Projetos\Desafio\Desafio\bin\Debug\Desafio.exe.config
+D:\Studying\C# COMPLETO Programação Orientada a Objetos + Projetos\Desafio\Desafio\bin\Debug\Desafio.exe
+D:\Studying\C# COMPLETO Programação Orientada a Objetos + Projetos\Desafio\Desafio\bin\Debug\Desafio.pdb
+D:\Studying\C# COMPLETO Programação Orientada a Objetos + Projetos\Desafio\Desafio\obj\Debug\Desafio.csproj.AssemblyReference.cache
+D:\Studying\C# COMPLETO Programação Orientada a Objetos + Projetos\Desafio\Desafio\obj\Debug\Desafio.csproj.SuggestedBindingRedirects.cache
+D:\Studying\C# COMPLETO Programação Orientada a Objetos + Projetos\Desafio\Desafio\obj\Debug\Desafio.csproj.CoreCompileInputs.cache
+D:\Studying\C# COMPLETO Programação Orientada a Objetos + Projetos\Desafio\Desafio\obj\Debug\Desafio.exe
+D:\Studying\C# COMPLETO Programação Orientada a Objetos + Projetos\Desafio\Desafio\obj\Debug\Desafio.pdb
